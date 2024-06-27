@@ -39,8 +39,12 @@ The project consists of the following main classes:
 
 ## Visual
 
+https://github.com/maheshbabu0143/Banking-Management-System-/assets/114313844/06a0f41b-23fe-40be-8976-c54058cf0ce0
 
 
+## Screenshot 
+
+<img width="566" alt="bankingmanagementSystem" src="https://github.com/maheshbabu0143/Banking-Management-System-/assets/114313844/55217ba0-5d5d-47ba-b323-505025c57270">
 
 ## Contribution
 
